@@ -24,12 +24,14 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][dummyLinks]
 [<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" />][vuejs]
+[<img align="left" alt="GitHub" width="26px" src="https://commons.wikimedia.org/wiki/File:React-icon.svg" />][react]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="Node.js" width="26px" src="https://www.artenergy.com/images/php-logo.svg" />][php]
 [<img align="left" alt="GitHub" width="26px" src="https://repository-images.githubusercontent.com/190861222/0ba6d100-3b91-11ea-8013-3b46192f6c0d" />][wecodefy]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linux]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+
 
 <br />
 <br/>
@@ -42,6 +44,7 @@
 [vuejs]: https://vuejs.org/
 [sass]: https://sass-lang.com/
 [github]:https://github.com/
+[react]:https://reactjs.org/
 [linux]: https://www.linux.org/
 [git]: https://git-scm.com/
 [php]: https://www.php.net/
