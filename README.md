@@ -3,7 +3,7 @@
 ### I'm a full-stack web developer 
 
 
-- 🌱 I’m currently learning Vuejs
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about Linux
 - 😄 Pronouns: him
@@ -11,8 +11,6 @@
 ### connect with me
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" width="22px" src="https://www.pngfind.com/mpng/TbmRoi_linkedin-icon-image-serato-dj-pro-logo-hd/" />][linkedin]
-[<img align="left" width="22px" src="https://www.hiclipart.com/free-transparent-background-png-clipart-djqma" />][instagram]
 
 
 <br/>
