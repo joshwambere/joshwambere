@@ -3,7 +3,7 @@
 ### I'm a full-stack web developer 
 
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning frappe
 - 👯 I’m looking to collaborate on open source project
 - 🎓 &nbsp;I'm currently studying Software engineering in Adventist University of Central Africa (AUCA)
 - 💬 Ask me about Linux
