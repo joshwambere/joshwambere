@@ -3,7 +3,7 @@
 ### I'm a full-stack web developer 
 
 
-- 🌱 I’m currently learning frappe
+- 🌱 I’m currently learning nuxtjs
 - 👯 I’m looking to collaborate on open source project
 - 🎓 &nbsp;I'm currently studying Software engineering in Adventist University of Central Africa (AUCA)
 - 💬 Ask me about Linux
@@ -13,8 +13,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=violet)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
