@@ -1,15 +1,9 @@
 ### Hi there! 👋, I'm Johnson
 
-<a href="https://github.com/Andrew6rant/Andrew6rant">
-  <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://share.text-image.com/73298bcccf58536d">
-    <img alt="Andrew Grant's GitHub Profile README" src="https://share.text-image.com/73298bcccf58536d">
-  </picture>
-</a>
-
-[![wakatime](https://wakatime.com/badge/user/d8c33061-abfb-4414-b004-964f31844f66.svg)](https://wakatime.com/@d8c33061-abfb-4414-b004-964f31844f66)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wambere\&layout=compact)
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ### :fire: My Stats :
 
