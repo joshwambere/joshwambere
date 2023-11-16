@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?wambere=ffflabs)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wambere\&layout=compact)
 
 ### :fire: My Stats :
 
