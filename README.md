@@ -1,12 +1,12 @@
 ### Hi there! 👋, I'm Johnson
 
-### I'm a Full-stack Developer 
+<a href="https://github.com/Andrew6rant/Andrew6rant">
+  <picture>
+    <img alt="Andrew Grant's GitHub Profile README" src="https://share.text-image.com/73298bcccf58536d">
+  </picture>
+</a>
 
-
-- 🌱 I’m currently learning .NET
-- 👯 I’m looking to collaborate on open source project
-
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/d8c33061-abfb-4414-b004-964f31844f66.svg)](https://wakatime.com/@d8c33061-abfb-4414-b004-964f31844f66)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wambere\&layout=compact)
 
