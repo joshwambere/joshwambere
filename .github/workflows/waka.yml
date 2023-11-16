@@ -17,18 +17,6 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@v3
 
-      - name: Setup Python 3.11 🐍
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.11
-          cache: 'pip'
-
-      - name: Install Dependencies 📥
-        run: pip install -r requirements.txt
-
-      - name: Create Assets Folder 📥
-        run: mkdir assets
-
       - name: Create Previous Comments 🫣
         uses: int128/hide-comment-action@v1
         with:
