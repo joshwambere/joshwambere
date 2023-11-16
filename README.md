@@ -2,6 +2,7 @@
 
 <a href="https://github.com/Andrew6rant/Andrew6rant">
   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://share.text-image.com/73298bcccf58536d">
     <img alt="Andrew Grant's GitHub Profile README" src="https://share.text-image.com/73298bcccf58536d">
   </picture>
 </a>
