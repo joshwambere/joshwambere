@@ -15,7 +15,7 @@
 <p style="background-color: #30353A; padding: 1.5em 1em 1em 2em; border-bottom-left-radius: 6px; border-bottom-right-radius: 6px; color: #FAFAFA;">
   <span style="color: #61AFEF;">MacBook:~joshwambere$</span> <span style="color: #3BB662;">./profile.sh</span><br>
   => <span style="color: #3BB662;">Greetings, fellow coder! 🚀 Welcome, Johnson! Initiating extraordinary personal profile...</span><br>
-  <span style="color: #FFD700;">name:</span> Johnson <span style="vertical-align: middle;">😎</span><br>
+  ![#FFD700] <span>name:</span> Johnson <span style="vertical-align: middle;">😎</span><br>
   <span style="color: #FFD700;">os:</span> Backend Engineer<br>
   <span style="color: #FFD700;">Main Stacks:</span> c#,.NET,JavaScript, Nestjs, Postgres<br>
   <span style="color: #FFD700;">Interests:</span> System Design, Distributed Systems, AI<br>
