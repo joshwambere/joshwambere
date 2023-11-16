@@ -4,7 +4,9 @@
   </ul>
 </div>
 
+⚡Backend developer by nature, but with a curious eye for the frontend, always looking to learn and expand my skills.
 
+<br>
 
 ### Find me
 <a href="https://www.linkedin.com/in/dusabe-johnson" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
