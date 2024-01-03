@@ -12,11 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 55 mins
+Total Time: 3 hrs 20 mins
 
-TypeScript   2 hrs 54 mins   █████████████████████████   99.39 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TypeScript   3 hrs 15 mins   ████████████████████████▒   97.32 %
+CSS          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 yarn.lock    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
