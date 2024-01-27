@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 20 hrs 17 mins
+Total Time: 23 hrs 24 mins
 
-TypeScript       14 hrs 26 mins  █████████████████▓░░░░░░░   71.18 %
-C#               5 hrs 22 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
-JavaScript       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-GitIgnore file   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Text             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-.env file        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-yarn.lock        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript       15 hrs 17 mins  ████████████████▒░░░░░░░░   65.31 %
+C#               6 hrs 41 mins   ███████░░░░░░░░░░░░░░░░░░   28.60 %
+CSS              39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+JSON             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+GitIgnore file   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+JavaScript       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Text             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
