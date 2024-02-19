@@ -33,4 +33,4 @@ Text             3 mins          ░░░░░░░░░░░░░░░�
 
 ### Find me
 <a href="https://www.linkedin.com/in/dusabe-johnson" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-‎‎ [![Personal Website](https://img.shields.io/badge/visit-Johnson.rw-blue)](https://johnsonis.me/)
+‎‎ [![Personal Website](https://img.shields.io/badge/visit-Johnsonis.me-blue)](https://johnsonis.me/)
