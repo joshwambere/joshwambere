@@ -26,11 +26,11 @@ Text             3 mins          ░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/joshwambere/joshwambere/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/joshwambere/joshwambere/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/joshwambere/joshwambere/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 ### Find me
 <a href="https://www.linkedin.com/in/dusabe-johnson" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-‎‎ [![Personal Website](https://img.shields.io/badge/visit-Johnson.rw-blue)](https://johnson.rw/)
+‎‎ [![Personal Website](https://img.shields.io/badge/visit-Johnson.rw-blue)](https://johnsonis.me/)
