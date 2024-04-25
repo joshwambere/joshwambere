@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 15 hrs 28 mins
+Total Time: 12 hrs 20 mins
 
-C#                    9 hrs 36 mins   ███████████████▒░░░░░░░░░   61.90 %
-YAML                  1 hr 39 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
-textmate              58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-TypeScript            54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-Nginx Configuration   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-JSON                  31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-GitIgnore file        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+C#                    4 hrs 37 mins   █████████▒░░░░░░░░░░░░░░░   37.34 %
+YAML                  3 hrs 5 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.95 %
+textmate              58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+TypeScript            54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+Nginx Configuration   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Docker                25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+GitIgnore file        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
