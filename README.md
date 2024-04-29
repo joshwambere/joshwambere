@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 hrs 14 mins
+Total Time: 11 hrs 19 mins
 
-C#                    5 hrs 23 mins   ██████████░░░░░░░░░░░░░░░   40.53 %
-YAML                  3 hrs 5 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.25 %
-textmate              58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-TypeScript            54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-Nginx Configuration   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-JSON                  27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-Docker                25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+C#                    5 hrs 23 mins   ████████████░░░░░░░░░░░░░   47.62 %
+YAML                  2 hrs 16 mins   █████░░░░░░░░░░░░░░░░░░░░   20.09 %
+textmate              37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+TypeScript            37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Nginx Configuration   32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+JSON                  27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Docker                25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 ```
 
 <!--END_SECTION:waka-->
