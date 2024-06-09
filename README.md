@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 42 hrs 31 mins
+Total Time: 37 hrs 48 mins
 
-TypeScript                19 hrs 51 mins  ███████████▓░░░░░░░░░░░░░   46.69 %
-JSON                      6 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
-C#                        3 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-Docker                    3 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
-YAML                      2 hrs 33 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-JavaScript                2 hrs 32 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-Env File                  1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+TypeScript                15 hrs 43 mins  ██████████▒░░░░░░░░░░░░░░   41.60 %
+JSON                      6 hrs 32 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
+Docker                    3 hrs 50 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
+C#                        3 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+YAML                      2 hrs 33 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+JavaScript                2 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Env File                  58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
 ```
 
 <!--END_SECTION:waka-->
