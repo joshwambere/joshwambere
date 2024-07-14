@@ -12,11 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 48 mins
+Total Time: 37 mins
 
-TypeScript   41 mins         █████████████████████▓░░░   86.63 %
-Prisma       6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript   31 mins         ████████████████████▓░░░░   83.02 %
+Prisma       6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
