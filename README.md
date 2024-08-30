@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 15 hrs 11 mins
+Total Time: 12 hrs 41 mins
 
-Kotlin            5 hrs 22 mins   █████████░░░░░░░░░░░░░░░░   35.36 %
-TypeScript        3 hrs 34 mins   ██████░░░░░░░░░░░░░░░░░░░   23.56 %
-JavaScript        3 hrs 26 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
-JSON              1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-C#                50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-YAML              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-GitIgnore file    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Kotlin            5 hrs 17 mins   ██████████▒░░░░░░░░░░░░░░   41.71 %
+JavaScript        3 hrs 25 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.01 %
+TypeScript        2 hrs 46 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
+JSON              43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+C#                13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+GitIgnore file    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Text              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
