@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 14 hrs 24 mins
+Total Time: 11 hrs 27 mins
 
-TypeScript        5 hrs 15 mins   █████████░░░░░░░░░░░░░░░░   36.48 %
-Kotlin            4 hrs 43 mins   ████████▒░░░░░░░░░░░░░░░░   32.82 %
-JavaScript        3 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░░   23.72 %
-JSON              24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-Properties        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-SQL               9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Java Properties   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Kotlin            6 hrs 35 mins   ██████████████▒░░░░░░░░░░   57.47 %
+TypeScript        2 hrs 36 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.83 %
+JavaScript        54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+SQL               27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+JSON              20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Properties        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Java Properties   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
