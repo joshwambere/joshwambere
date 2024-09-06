@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 22 mins
+Total Time: 15 hrs 18 mins
 
-Kotlin            8 hrs 24 mins   █████████████████░░░░░░░░   67.86 %
-TypeScript        2 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
-SQL               27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-JSON              20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-Properties        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-Java Properties   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Bash              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Kotlin            9 hrs 27 mins   ███████████████▒░░░░░░░░░   61.85 %
+TypeScript        2 hrs 38 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
+C#                1 hr 46 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+SQL               27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+JSON              23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Properties        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Java Properties   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
