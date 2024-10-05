@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 42 mins
+Total Time: 4 hrs 13 mins
 
-C#               3 hrs 24 mins   ██████████████████░░░░░░░   72.18 %
-TypeScript       1 hr 2 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
-JSON             13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Csproj           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+C#               2 hrs 58 mins   █████████████████▓░░░░░░░   70.44 %
+TypeScript       1 hr 2 mins     ██████▒░░░░░░░░░░░░░░░░░░   24.72 %
+JSON             10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Csproj           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 Image (svg)      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
