@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 13 mins
+Total Time: 4 hrs 53 mins
 
-C#               2 hrs 58 mins   █████████████████▓░░░░░░░   70.44 %
-TypeScript       1 hr 2 mins     ██████▒░░░░░░░░░░░░░░░░░░   24.72 %
-JSON             10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Csproj           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Image (svg)      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TypeScript       2 hrs 16 mins   ███████████▓░░░░░░░░░░░░░   46.55 %
+C#               2 hrs 11 mins   ███████████▒░░░░░░░░░░░░░   44.86 %
+JSON             22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+Env File         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Csproj           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
