@@ -12,13 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 mins
+Total Time: 0 secs
 
-TypeScript   6 mins          ███████████████░░░░░░░░░░   60.14 %
-Env File     3 mins          ███████░░░░░░░░░░░░░░░░░░   28.38 %
-YAML         1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-XML          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
