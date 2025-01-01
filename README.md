@@ -12,11 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 2 mins
+Total Time: 1 hr 53 mins
 
-TypeScript   1 hr 57 mins    ████████████████████████░   96.13 %
-Env File     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+TypeScript   1 hr 52 mins    ████████████████████████▓   99.28 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
