@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 20 mins
+Total Time: 4 hrs 45 mins
 
-TypeScript   4 hrs 15 mins   ████████████████████████▒   97.96 %
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-SCSS         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   3 hrs 56 mins   ████████████████████▓░░░░   83.12 %
+C#           29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
+JSON         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+SCSS         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
