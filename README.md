@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 23 mins
+Total Time: 8 hrs 39 mins
 
-TypeScript       6 hrs 14 mins   ████████████████▓░░░░░░░░   66.44 %
-C#               2 hrs 23 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.45 %
-JavaScript       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-YAML             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-Env File         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-JSON             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+TypeScript       5 hrs 3 mins    ██████████████▓░░░░░░░░░░   58.50 %
+C#               2 hrs 12 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.47 %
+JSON             34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+JavaScript       20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+YAML             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Env File         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+GitIgnore file   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
