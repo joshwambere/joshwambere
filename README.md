@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 23 mins
+Total Time: 6 hrs 19 mins
 
-YAML                  4 hrs 52 mins   ████████████████▒░░░░░░░░   65.73 %
-TypeScript            45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-Bash                  37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-Docker                24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-Nginx Configuration   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Env File              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-JSON                  6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+YAML                  2 hrs 50 mins   ███████████▒░░░░░░░░░░░░░   44.79 %
+Kotlin                48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
+TypeScript            45 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+Bash                  37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+Docker                24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+JSON                  16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Nginx Configuration   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
 ```
 
 <!--END_SECTION:waka-->
