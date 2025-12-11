@@ -12,12 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 27 mins
+Total Time: 32 mins
 
-C#     3 hrs 9 mins    ███████████████████████░░   91.52 %
-SQL    12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-JSON   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+C#   32 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
