@@ -14,11 +14,7 @@
 ```txt
 Total Time: 7 mins
 
-TypeScript            7 mins          █████████████████████████   99.88 %
-Kotlin                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-C#                    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-YAML                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Nginx Configuration   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
