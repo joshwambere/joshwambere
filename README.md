@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 22 mins
+Total Time: 4 hrs 3 mins
 
-Kotlin                1 hr 15 mins          ███████▒░░░░░░░░░░░░░░░░░   28.77 %
-C#                    50 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.27 %
-Bash                  31 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
-Java Properties       22 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
-JSON                  17 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-textmate              17 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-Nginx Configuration   16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Kotlin                1 hr 30 mins          █████████▒░░░░░░░░░░░░░░░   37.33 %
+Bash                  34 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
+Java Properties       24 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+textmate              18 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+JSON                  16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+Nginx Configuration   16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+SQL                   13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
 ```
 
 <!--END_SECTION:waka-->
