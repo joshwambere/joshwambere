@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 3 mins
+Total Time: 3 hrs 12 mins
 
-Kotlin                1 hr 30 mins          █████████▒░░░░░░░░░░░░░░░   37.33 %
-Bash                  34 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
-Java Properties       24 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-textmate              18 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-JSON                  16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-Nginx Configuration   16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-SQL                   13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+Kotlin                1 hr 28 mins          ███████████▒░░░░░░░░░░░░░   45.97 %
+Bash                  34 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
+Java Properties       24 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
+textmate              13 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+SQL                   13 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+TypeScript            7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Python                3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
