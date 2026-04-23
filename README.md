@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 16 mins
+Total Time: 9 hrs 22 mins
 
-C#                     3 hrs 29 mins         █████████░░░░░░░░░░░░░░░░   36.39 %
-Kotlin                 1 hr 59 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.75 %
-TypeScript             1 hr 32 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
-Markdown               35 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-Python                 18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Other                  18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Java Properties        17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+C#                3 hrs 28 mins         ████████▓░░░░░░░░░░░░░░░░   35.20 %
+Kotlin            2 hrs 29 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.23 %
+TypeScript        1 hr 25 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
+Markdown          35 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+Other             28 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Java Properties   17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+CSHTML            12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
 ```
 
 <!--END_SECTION:waka-->
