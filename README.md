@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 22 mins
+Total Time: 4 hrs 51 mins
 
-TypeScript             2 hrs 10 mins         ████████████▒░░░░░░░░░░░░   49.81 %
-C#                     1 hr 18 mins          ███████▒░░░░░░░░░░░░░░░░░   29.90 %
-Markdown               20 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-SCSS                   14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-Python                 12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-JavaScript             5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-MsBuild targets file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   2 hrs 29 mins         █████████████░░░░░░░░░░░░   51.42 %
+C#           52 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.88 %
+Python       34 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+Markdown     29 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+SCSS         14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+JavaScript   5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+JSON         3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
