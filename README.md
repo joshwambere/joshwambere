@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 35 mins
+Total Time: 10 hrs 35 mins
 
-C#                3 hrs 51 mins         ██████████░░░░░░░░░░░░░░░   40.11 %
-JSON              2 hrs 2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
-Markdown          1 hr 43 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.84 %
-TypeScript        54 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-JavaScript        18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Kotlin            15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-YAML              5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+C#                3 hrs 56 mins         █████████▒░░░░░░░░░░░░░░░   37.11 %
+JSON              2 hrs 25 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.88 %
+Markdown          1 hr 51 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
+Kotlin            1 hr 7 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
+YAML              21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+JavaScript        17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Java Properties   7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
