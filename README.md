@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 15 hrs 45 mins
+Total Time: 15 hrs 37 mins
 
-TypeScript       6 hrs 19 mins         ██████████░░░░░░░░░░░░░░░   40.10 %
-Markdown         3 hrs 11 mins         █████░░░░░░░░░░░░░░░░░░░░   20.21 %
-Python           2 hrs 52 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.28 %
-Astro            44 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-Text             28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-JavaScript       27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-HTML             24 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+TypeScript       6 hrs 19 mins         ██████████░░░░░░░░░░░░░░░   40.48 %
+Markdown         3 hrs 11 mins         █████░░░░░░░░░░░░░░░░░░░░   20.40 %
+Python           2 hrs 46 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.76 %
+Astro            44 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Text             28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+JavaScript       27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+HTML             24 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 ```
 
 <!--END_SECTION:waka-->
