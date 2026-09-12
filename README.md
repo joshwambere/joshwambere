@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 14 hrs
+Total Time: 12 hrs 45 mins
 
-Kotlin            5 hrs 26 mins         █████████▒░░░░░░░░░░░░░░░   37.95 %
-Markdown          3 hrs 40 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.58 %
-TypeScript        1 hr 27 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
-Bash              1 hr 14 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-HTML              52 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-YAML              24 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-Other             20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Kotlin            5 hrs 26 mins         ██████████▓░░░░░░░░░░░░░░   42.23 %
+Markdown          3 hrs 42 mins         ███████▒░░░░░░░░░░░░░░░░░   28.76 %
+Bash              1 hr 14 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+HTML              55 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+YAML              24 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+GitIgnore file    16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Java Properties   10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
