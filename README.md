@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 23 mins
+Total Time: 7 hrs 28 mins
 
-Markdown          2 hrs 29 mins         █████████░░░░░░░░░░░░░░░░   35.76 %
-TypeScript        1 hr 21 mins          █████░░░░░░░░░░░░░░░░░░░░   19.45 %
-Kotlin            59 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
-Python            42 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-HTML              41 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-Other             35 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-GitIgnore file    4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Markdown         3 hrs 32 mins         ███████████▓░░░░░░░░░░░░░   46.92 %
+TypeScript       1 hr 32 mins          █████░░░░░░░░░░░░░░░░░░░░   20.47 %
+Kotlin           1 hr 11 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
+Python           44 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
+SQL              17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+HTML             6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Other            5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
